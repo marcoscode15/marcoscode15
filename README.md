@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **marcoscode15/marcoscode15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 <div style="display: flex;">
@@ -30,7 +28,7 @@ Here are some ideas to get you started:
     <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+    <img align="right" alt="Yoda" src="https://cdn.discordapp.com/attachments/1242911103902548110/1246585967364669521/download20240606185451.png?ex=665ced27&is=665b9ba7&hm=55e9bba8e60e2d6faa354fa73f6ca525610263be9cb696eae7fc7fcefc159dd3" width="200">
 </div>
 
 ##
@@ -41,6 +39,8 @@ Here are some ideas to get you started:
     <a href="https://www.instagram.com/marcospne/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://discord.gg/marcoseliaspn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
+
+![Snake animation](https://github.com/marcoscode15/marcoscode15/blob/output/github-contribution-grid-snake.svg)
 
 
 
