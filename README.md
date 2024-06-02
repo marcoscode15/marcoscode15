@@ -3,12 +3,12 @@
 - 👨‍💻 Interessado em colaborar em projetos Frontend 
 <br>
 
-<div style="display: flex;">
-    <a href="https://github.com/marcoscode15">
-        <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=marcoscode15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=27"/>
-        <img style="width: 43%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscode15&layout=compact&langs_count=16&theme=dracula&v=27"/>
-    </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcoscode15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoscode15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <br>
 <div style="display: inline-block"><br>
@@ -30,9 +30,14 @@
     <a href="https://www.instagram.com/marcospne/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
     <a href="https://discord.gg/marcoseliaspn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
 </div>
-<br>
 
-![snake gif](https://github.com/marcoscode15/marcoscode15/blob/output/github-contribution-grid-snake.gif)
+##
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
