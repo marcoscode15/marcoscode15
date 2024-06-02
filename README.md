@@ -5,8 +5,8 @@
 
 <div style="display: flex;">
     <a href="https://beacons.ai/marcoscode15">
-        <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=marcoscode15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=2"/>
-        <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscode15&layout=compact&langs_count=16&theme=dracula&v=2"/>
+        <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api?username=marcoscode15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=10"/>
+        <img style="width: 43%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscode15&layout=compact&langs_count=16&theme=dracula&v=10"/>
     </a>
 </div>
 
