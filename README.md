@@ -1,6 +1,9 @@
 - 🎯 Em busca de oportunidades de emprego 
 - 📚 Estudante na PUC Minas 
 - 👨‍💻 Interessado em colaborar em projetos Frontend 
+
+##
+
 <br>
 
 <div align="center">
@@ -8,9 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoscode15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <br>
+
 <div style="display: inline-block"><br>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,7 +25,6 @@
 
 
 ##
-
 <div>
     <a href="https://www.linkedin.com/in/marcos-paulo-nunes-elias-075580310/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:marcoscode15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -31,13 +32,11 @@
     <a href="https://discord.gg/marcoseliaspn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
 </div>
 
-##
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/marcoscode15/marcoscode15/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 
 
